@@ -1,0 +1,11 @@
+{
+  "name": "gostack11-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/bsicchieri/gostack11-typescript.git",
+  "author": "bsicchieri <brunosicchieri@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
