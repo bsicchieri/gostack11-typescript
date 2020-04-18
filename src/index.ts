@@ -2,4 +2,4 @@ import express from 'express';
 
 const app = express();
 
-app.list
+app.listen(3333);

@@ -6,6 +6,7 @@
   "author": "bsicchieri <brunosicchieri@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/express": "^4.17.6",
     "typescript": "^3.8.3"
   },
   "dependencies": {
